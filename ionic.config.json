@@ -1,0 +1,7 @@
+{
+  "name": "iiuibackend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
